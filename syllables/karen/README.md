@@ -1,6 +1,10 @@
 myanmar-karen-word-lists
 ========================
 
+These files were taken form a project hosted at github.com/kanyawtech/myanmar-karen-word-lists
+
+For further information: kanyawtech.org
+
 A selection of Myanmar, Sgaw Karen, and Pwo Karen word lists for line breaking and spell-checking.
 
 This list is part of a project hosted at: github.com/kanyawtech/myanmar-karen-word-lists/.
